@@ -21,10 +21,13 @@ Note to self - export this as an int...
 ## Examples
 I have included the geojson files for hawaii's polygons and points (There aren't any lines in that one)
 ![Hawaii](HawaiiParsed.png)
+
 This has been loaded into QGIS, under a meter projection (27700)
 ![Detail of the runway](RunwayDetail.png)
+
 Details of the runway, zoomed in
 ![Runway lights from QGIS](RunwayLights.png)
+
 Lights, styled from the point geojson
 
 ## Requirements
